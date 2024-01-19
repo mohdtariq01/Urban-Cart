@@ -1,0 +1,13 @@
+.about{
+    margin-top: 4rem;
+}
+.team{
+    margin-top: 2rem;
+    -webkit-box-shadow: 7px 8px 19px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 7px 8px 19px 0px rgba(0,0,0,0.75);
+    box-shadow: 7px 8px 19px 0px rgba(0,0,0,0.75)
+}
+.about-text{
+    margin-left: 2rem;
+    font-size: 17px;
+}
